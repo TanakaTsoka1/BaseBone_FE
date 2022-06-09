@@ -1,0 +1,20 @@
+[
+  {
+    "name": "create",
+    "path": "/create",
+    "component": "/Users/Tanaka/Desktop/Basebone_FE/BaseBone_FE/BaseBone_FE/pages/create.vue",
+    "chunkName": "pages/create"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/Tanaka/Desktop/Basebone_FE/BaseBone_FE/BaseBone_FE/pages/index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "id",
+    "path": "/:id",
+    "component": "/Users/Tanaka/Desktop/Basebone_FE/BaseBone_FE/BaseBone_FE/pages/_id.vue",
+    "chunkName": "pages/_id"
+  }
+]
